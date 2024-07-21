@@ -46,6 +46,5 @@ I'm a budding developer pursuing B.Tech in Biotechnology with a intense interest
 - **3D Restructuring of Heparin:** developing stable structure of the molecule Heparin using Chemdraw.
 - **Analysis on Protein precipitation.**
 - **Study on Skin-Friendly molecules.**
-- **Agar Art:** Experienced performing Agar Art using standard sterilization techniques under laboratory assistance.
 
 Thanks for visiting my GitHub profile! 😊
